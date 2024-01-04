@@ -1,0 +1,65 @@
+/* Instagram name */
+h2 {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 45%;
+    margin-top: 8%;
+
+}
+
+.null {
+    margin-top: 1px;
+    margin-left: 40%;
+
+}
+
+.mmc {
+    margin-top: 40px;
+    margin-left: 87px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+    /* Log in with facebook 
+Forgotten Password */
+
+}
+
+.for {
+    color: blue;
+}
+
+.froma {
+    color: darkblue;
+}
+
+/* for name and password */
+.mn {
+
+    width: 92%;
+    height: 35px;
+    border: 2px solid;
+    border-color: #ccc;
+
+}
+
+/* Log in  */
+.new {
+    text-align: center;
+    width: 36.2%;
+    height: 40px;
+    color: #fff;
+    font-size:larger;
+    background-color: #3897f0;
+    border: none;
+}
+
+/*  Border in email and class */
+.raw {
+    width: 249.5px;
+    height: 100px;
+    border: 2px solid thistle;
+    padding: 50px 40px;
+    box-sizing: content-box;
+    border-radius: 10px;
+
+} 
